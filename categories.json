@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Animals",
+    "folder": "animals",
+    "image": "animals.png"
+  },
+  {
+    "name": "Abstract",
+    "folder": "abstract",
+    "image": "abstract.png"
+  },
+  {
+    "name": "Food",
+    "folder": "food",
+    "image": "food.png"
+  },
+  {
+    "name": "Cities",
+    "folder": "cities",
+    "image": "cities.png"
+  },
+  {
+    "name": "Space",
+    "folder": "space",
+    "image": "space.png"
+  },
+  {
+    "name": "Buildings",
+    "folder": "buildings",
+    "image": "buildings.png"
+  },
+  {
+    "name": "Fantasy",
+    "folder": "fantasy",
+    "image": "fantasy.png"
+  },
+  {
+    "name": "Music",
+    "folder": "music",
+    "image": "music.png"
+  },
+  {
+    "name": "Nature",
+    "folder": "nature",
+    "image": "nature.png"
+  },
+  {
+    "name": "Neon",
+    "folder": "neon",
+    "image": "neon.png"
+  },
+  {
+    "name": "Ocean",
+    "folder": "ocean",
+    "image": "ocean.png"
+  },
+  {
+    "name": "Zodiac",
+    "folder": "zodiac",
+    "image": "zodiac.png"
+  },
+  {
+    "name": "Sports",
+    "folder": "sports",
+    "image": "sports.png"
+  },
+  {
+    "name": "Tech",
+    "folder": "tech",
+    "image": "tech.png"
+  },
+  {
+    "name": "Zen",
+    "folder": "zen",
+    "image": "zen.png"
+  }
+]
